@@ -7,13 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/uditjain_100" target="blank"><img src="https://img.shields.io/twitter/follow/uditjain_100?logo=twitter&style=for-the-badge" alt="uditjain_100" /></a> </p>
 
-- 🔭 I’m currently working on **YelpCamp**
+- 👨 That's my Portfolio [https://radiant-earth-89742.herokuapp.com/](https://radiant-earth-89742.herokuapp.com/)
 
-- 🌱 I’m currently learning **Web Development**
+- 🤵 That's my Portfolio [https://stormy-badlands-32609.herokuapp.com/](https://stormy-badlands-32609.herokuapp.com/)
+
+- 🔭 I’m currently working on **React Project**
+
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/uditjain100](https://github.com/uditjain100)
 
-- 💬 Ask me about **Kotlin, Core Java, Android Development**
+- 💬 Ask me about **Kotlin, Core Java, Android Development, JavaScript, Full Stack Web Development**
 
 - 📫 How to reach me **jain30udit@gmail.com**
 
