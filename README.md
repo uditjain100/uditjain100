@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Udit Jain 👨🏼‍🦱</h1>
-<h3 align="center">A versatile, high-energy android application developer with the distinction of executing prestigious projects within strict time schedule.</h3>
+<h3 align="center">A versatile, high-energy student and developer with the distinction of executing prestigious projects within strict time schedule.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditjain100&label=Profile%20views&color=0e75b6&style=flat" alt="uditjain100" /> </p>
 
