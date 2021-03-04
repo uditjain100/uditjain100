@@ -9,7 +9,7 @@
 
 - 👨 That's my Portfolio [https://radiant-earth-89742.herokuapp.com/](https://radiant-earth-89742.herokuapp.com/)
 
-- 🤵 That's my Portfolio [https://stormy-badlands-32609.herokuapp.com/](https://stormy-badlands-32609.herokuapp.com/)
+- 🤵 That's my Resume [https://stormy-badlands-32609.herokuapp.com/](https://stormy-badlands-32609.herokuapp.com/)
 
 - 🔭 I’m currently working on **React Project**
 
