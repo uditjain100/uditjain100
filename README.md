@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/uditjain_100" target="blank"><img src="https://img.shields.io/twitter/follow/uditjain_100?logo=twitter&style=for-the-badge" alt="uditjain_100" /></a> </p>
 
-- 👨 That's my Portfolio [https://creasedmeteor.herokuapp.com/](https://radiant-earth-89742.herokuapp.com/)
+- 👨 That's my Portfolio [https://creasedmeteor.herokuapp.com/](https://creasedmeteor.herokuapp.com/)
 
 - 🤵 That's my Resume [https://stormy-badlands-32609.herokuapp.com/](https://stormy-badlands-32609.herokuapp.com/)
 
