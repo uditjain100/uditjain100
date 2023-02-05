@@ -2,7 +2,7 @@
 <h3 align="center">A versatile, high-energy student and developer with the distinction of executing prestigious projects within strict time schedule.</h3>
 
 
-- 👨 That's my Portfolio [https://creasedmeteor.herokuapp.com/](https://creasedmeteor.herokuapp.com/)
+- 👨 That's my Portfolio [https://uditjain100.github.io/](https://uditjain100.github.io/)
 
 - 🤵 That's my Resume [https://stormy-badlands-32609.herokuapp.com/](https://stormy-badlands-32609.herokuapp.com/)
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/uditjain100](https://github.com/uditjain100)
 
-- 💬 Ask me about **Kotlin, Core Java, Android Development, JavaScript, Full Stack Web Development**
+- 💬 Ask me about **React, Kotlin, Core Java, Android Development, JavaScript, Full Stack Web Development**
 
 - 📫 How to reach me **jain30udit@gmail.com**
 
