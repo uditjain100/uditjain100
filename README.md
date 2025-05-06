@@ -4,7 +4,7 @@
 
 - 👨 That's my Portfolio [https://uditjain100.github.io/](https://uditjain100.github.io/)
 
-- 🤵 That's my Resume [https://drive.google.com/file/d/173GJxyIR-BTBQrpKlGxDsiFS5xyPUouE/view](https://uditjain_100.com/)
+- 🤵 That's my Resume [https://uditjain_100.com/](https://drive.google.com/file/d/173GJxyIR-BTBQrpKlGxDsiFS5xyPUouE/view)
 
 - 🔭 I’m currently working on **React Project**
 
