@@ -4,7 +4,7 @@
 
 - 👨 That's my Portfolio [https://uditjain100.github.io/](https://uditjain100.github.io/)
 
-- 🤵 That's my Resume [https://stormy-badlands-32609.herokuapp.com/](https://stormy-badlands-32609.herokuapp.com/)
+- 🤵 That's my Resume [https://drive.google.com/file/d/173GJxyIR-BTBQrpKlGxDsiFS5xyPUouE/view](https://uditjain_100.com/)
 
 - 🔭 I’m currently working on **React Project**
 
