@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/uditjain100](https://github.com/uditjain100)
 
-- 💬 Ask me about **React, Kotlin, Core Java, Android Development, JavaScript, Full Stack Web Development**
+- 💬 Ask me about **JavaScript, ReactJs, Core Java, Java8, SpringBoot, MySQL, DSA, System Design**
 
 - 📫 How to reach me **jain30udit@gmail.com**
 
