@@ -6,9 +6,9 @@
 
 - 🤵 That's my Resume [https://uditjain_100.com/](https://drive.google.com/file/d/173GJxyIR-BTBQrpKlGxDsiFS5xyPUouE/view)
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **Machine Learning Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/uditjain100](https://github.com/uditjain100)
 
