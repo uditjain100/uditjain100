@@ -4,7 +4,7 @@
 
 - 👨 That's my Portfolio [https://uditjain100.github.io/](https://uditjain100.github.io/)
 
-- 🤵 That's my Resume [https://uditjain_100.com/](https://drive.google.com/file/d/173GJxyIR-BTBQrpKlGxDsiFS5xyPUouE/view)
+- 🤵 That's my Resume [https://uditjain_100.com/](https://drive.google.com/file/d/1CSD_brtly6uwUjLJ74IKhG9KGOFMeALr/view)
 
 - 🔭 I’m currently working on **Machine Learning Project**
 
