@@ -25,14 +25,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="uditjain_100" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="uditjain_100" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/uditjain_100" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@jain30udit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="uditjain_100" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/uditjain_100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/uditjain_100" height="30" width="40" /></a>
 <a href="https://twitter.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uditjain_100" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/udit-jain-8a38a016a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="udit-jain-8a38a016a/" height="30" width="40" /></a>
 <a href="https://fb.com/udit.jain.7796" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="udit.jain.7796" height="30" width="40" /></a>
 <a href="https://instagram.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="uditjain_100" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="uditjain_100" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="uditjain_100" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="uditjain_100" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="uditjain_100" height="30" width="40" /></a>
 </p>
 
